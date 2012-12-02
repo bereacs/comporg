@@ -1,0 +1,8 @@
+# Site Configuration
+title: Computer Organization
+tagline: In piles, on shelves...
+base:
+  
+# Server Config
+auto: true
+permalink: /:categories/:year/:month/:day/:title
