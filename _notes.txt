@@ -1,3 +1,7 @@
+# Useful commit notes page.
+
+http://oli.jp/2011/github-pages-workflow/
+
 # Links for Git hosting options
 
 I'd like some git hosting options for the upper division course.
