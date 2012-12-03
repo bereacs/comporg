@@ -11,7 +11,7 @@ layout: minimal
 <p align="center">
   <small>
     <a href="http://de.wikipedia.org/wiki/Datei:Phodopus_sungorus_-_Hamsterkraftwerk.jpg" title="Hamsterkraftwerk by Doenertier82 on Wikipedia">
-      <img src="/images/hamster-wheel.png" alt="Hamsterkraftwerk" width="400" height="300">
+      <img src="images/hamster-wheel.png" alt="Hamsterkraftwerk" width="400" height="300">
     </a>
 </small>
 </p>
