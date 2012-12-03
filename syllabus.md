@@ -148,7 +148,7 @@ In years past, I used Chickering and Gamson's [Seven Principles of Good Undergra
 
 ## Catalogue Description
 
-**FIXME**: I have no idea what the catalog description is at this time. (December 2, 2012)
+A study of the design of modern computer systems with a focus on the interaction between hardware design and system software: instruction sets, cache and virtual memory in the context of the memory hierarchy, combinatorial and sequential logic design, high-level processor architecture, memory and processor organization, and parallel computing.	 
 
 ## Evening Lab / Support
 
