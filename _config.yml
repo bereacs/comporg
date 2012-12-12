@@ -1,7 +1,7 @@
 # Site Configuration
 title: Computer Organization
 tagline: In piles, on shelves...
-base:
+base: /comporg
   
 # Server Config
 auto: true
