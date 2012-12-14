@@ -1,5 +1,5 @@
 ### Create a BitBucket Account
-
+We will be using BitBucket as our host for version control this term. Our preferred version control system will be Git.
 
 #### Create the Account
 
@@ -13,7 +13,7 @@ You **must use your berea.edu address** when you create this account. The reason
 
 After you create your account, visit this webpage:
 
-http://www.atlassian.com/software/views/bitbucket-academic-license.jsp
+[http://www.atlassian.com/software/views/bitbucket-academic-license.jsp](http://www.atlassian.com/software/views/bitbucket-academic-license.jsp)
 
 Fill out the form, and request an educational account. You can probably leave the "additional notes" field blank.
 
